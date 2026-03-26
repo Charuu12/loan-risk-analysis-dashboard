@@ -58,7 +58,7 @@ using SQL and Power BI.
 - Insight: Affordability alone does not determine approval  
 
 ---
-
+Link TO the dashboard: https://app.powerbi.com/groups/me/reports/4475cc31-c0b1-45c3-8334-78f871a79a9f/904d0d003c4a8c8f7fd5?experience=power-bi
 ## 🔍 Key Insights
 - Credit history is the **strongest factor** influencing loan approval  
 - Larger loan sizes have **higher rejection rates**  
